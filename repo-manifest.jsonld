@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/spatialaudio/nbsphinx/commit/0d01427042b7fa12b8fa45b0243b29e03d1358cd",
       "git:hexsha": "0d01427042b7fa12b8fa45b0243b29e03d1358cd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T09:40:59.030383+00:00"
     },
     {
       "@id": "https://repolex.ai/r/spatialaudio/nbsphinx/commit/31341b43ca667bb6cc9164d25ed924b538f79644",
